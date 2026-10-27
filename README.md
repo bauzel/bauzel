@@ -24,4 +24,4 @@
 KiCad · Gowin EDA · Verilog · Python · Git
 
 ## 📫 Contact
-[LinkedIn](https://linkedin.com/in/...) · [Email](mailto:...)
+[LinkedIn](https://www.linkedin.com/in/bauzel/) 
